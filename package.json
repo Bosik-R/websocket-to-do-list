@@ -1,0 +1,15 @@
+{
+  "name": "websocket-to-do-list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Bosik-R/websocket-to-do-list.git",
+  "author": "Tomasz Rosik <Bosik27@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
